@@ -15,20 +15,19 @@ _A passionate, self-taught data science and machine learning enthusiast from Gha
 #### Languages and Tools 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="36">
 
-### Contact
-<p align='left'>
-<a href="https://www.whatsapp.com/in/MaxwellMensah/">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> _: 0501229742_
+#### Contact
+
+<a href="https://www.linkedin.com/in/maxwell-mensah-98a00216a/">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
-</p>
+**0501229742**
 
 
-### Social 
+#### Social 
 
-<p align='left'>
 <a href="https://www.linkedin.com/in/MaxwellMensah/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
+
 
              
