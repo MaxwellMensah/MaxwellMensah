@@ -1,14 +1,9 @@
 ### Hey there 👋, I'm Maxwell! 👨‍💻
 
  
-
-  <tr>
-  <td width="40%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-
-  </td>
-
+<div align="center">     
+&nbsp; <img src="https://novatorem.vercel.app/api/spotify" >
+</div>
 
 _A passionate, self-taught data science and machine learning enthusiast from Ghana._
 
