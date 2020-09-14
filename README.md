@@ -2,6 +2,12 @@
 
 _A passionate, self-taught data science and machine learning enthusiast from Ghana._
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/MaxwellMensah/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
 * 🔭 I’m currently working on a team project: Lead Qualification
 - 🌱 I’m currently learning Microsoft Power BI
 - 👯 I’m looking to collaborate on data science actvities
