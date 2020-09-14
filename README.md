@@ -5,7 +5,7 @@
 &nbsp; <img src="https://novatorem.vercel.app/api/spotify" >
 </div>
 
-_A passionate, self-taught data science and machine learning enthusiast from Ghana._
+_A passionate data science and machine learning enthusiast from Ghana._
 
 * 🔭 I’m currently working on a team project: Lead Qualification
 - 🌱 I’m currently learning Microsoft Power BI
