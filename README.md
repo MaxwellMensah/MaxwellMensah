@@ -1,8 +1,6 @@
 ### Hey there, I'm Maxwell! 👋
 
-A passionate, self-taught data science and machine learning enthusiast from Ghana.
-
-**Here are some ideas to get you started:**
+_A passionate, self-taught data science and machine learning enthusiast from Ghana._
 
 * 🔭 I’m currently working on a team project: Lead Qualification
 - 🌱 I’m currently learning Microsoft Power BI 
