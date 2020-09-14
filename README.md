@@ -19,9 +19,6 @@ _A passionate, self-taught data science and machine learning enthusiast from Gha
 
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-_**0501229742**_
-
-
 #### Social 
 
 <a href="https://www.linkedin.com/in/maxwell-mensah-98a00216a/">
