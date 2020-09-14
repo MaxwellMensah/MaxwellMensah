@@ -17,16 +17,14 @@ _A passionate, self-taught data science and machine learning enthusiast from Gha
 
 #### Contact
 
-<a href="https://www.linkedin.com/in/maxwell-mensah-98a00216a/">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a>
+<img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-**0501229742**
+> **0501229742**
 
 
 #### Social 
 
-<a href="https://www.linkedin.com/in/MaxwellMensah/">
+<a href="https://www.linkedin.com/in/maxwell-mensah-98a00216a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
