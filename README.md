@@ -19,7 +19,7 @@ _A passionate, self-taught data science and machine learning enthusiast from Gha
 
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-> **0501229742**
+_**0501229742**_
 
 
 #### Social 
