@@ -1,8 +1,16 @@
 ### Hey there 👋, I'm Maxwell! 👨‍💻
 
+ 
+<table width="30%"> 
+  <tr>
+  <td width="40%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  <td width="50%">
+
 _A passionate, self-taught data science and machine learning enthusiast from Ghana._
-
-
 
 * 🔭 I’m currently working on a team project: Lead Qualification
 - 🌱 I’m currently learning Microsoft Power BI
