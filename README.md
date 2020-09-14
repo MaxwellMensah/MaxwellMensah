@@ -1,14 +1,14 @@
 ### Hey there 👋, I'm Maxwell! 👨‍💻
 
  
-<table width="30%"> 
+
   <tr>
   <td width="40%">
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
   </td>
-  <td width="50%">
+
 
 _A passionate, self-taught data science and machine learning enthusiast from Ghana._
 
@@ -18,7 +18,7 @@ _A passionate, self-taught data science and machine learning enthusiast from Gha
 - 💬 Ask me about anything
 - 📫 How to reach me: <img src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg" width="30" height="17">
  Mmaxwell265@gmail.com
-- ⚡ Fun fact: I love video games
+- ⚡ Fun fact: I love video games.
 
 #### Languages and Tools 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="36"> 
