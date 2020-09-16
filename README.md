@@ -23,6 +23,7 @@ _A data science and machine learning enthusiast from Ghana._
 <a href="https://www.linkedin.com/in/maxwell-mensah-98a00216a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://learncodeonline.in/gitone.png" width="55" height="16"> **:Ma<img src="https://www.flaticon.com/svg/static/icons/svg/2919/2919590.svg" width="40" height="16">!e**
+
+<img src="https://learncodeonline.in/gitone.png" width="55" height="16">**: Ma❌!e**
 
              
