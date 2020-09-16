@@ -9,7 +9,7 @@
 
 _A data science and machine learning enthusiast from Ghana._
 
-* 🔭 I’m currently working on a team project: Lead Qualification
+- 🔭 I’m currently working on a team project: Lead Qualification
 - 🌱 I’m currently learning Microsoft Power BI & PostgreSQL
 - 👯 I’m looking to collaborate on data science actvities
 - 💬 Ask me about anything
