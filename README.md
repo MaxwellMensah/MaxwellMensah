@@ -24,6 +24,6 @@ _A data science and machine learning enthusiast from Ghana._
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<img src="https://learncodeonline.in/gitone.png" width="55" height="16">**: Ma❌!e**
+<img src="https://learncodeonline.in/gittwo.png" width="55" height="16">**: Ma❌!e**
 
              
