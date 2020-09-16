@@ -2,8 +2,10 @@
 
  
 <div align="center">     
-&nbsp; <img src="https://vercel.maxwellmensah.vercel.app/api/spotify" >
  
+ ### Spotify Playing 🎧
+[![Spotify](https://maxwellmensah.vercel.app/api/spotify)](https://open.spotify.com/user/maxwellmensah)
+
 </div>
 
 _A data science and machine learning enthusiast from Ghana._
