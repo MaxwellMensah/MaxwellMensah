@@ -4,7 +4,7 @@
 <div align="center">     
  
  ### Spotify Playing 🎧
-[![Spotify](https://maxwell-mensah.maxwellmensah.vercel.app/api/spotify)](https://open.spotify.com/user/maxwell-mensah)
+[![Spotify](https://maxwell-mensah-l43u2a7kt.vercel.app/api/spotify)](https://open.spotify.com/user/maxwell-mensah)
 </div>
 
 [<img src="https://maxwell-mensah-git-master.maxwellmensah.vercel.app/api/spotify" />](https://open.spotify.com/user/maxwell-mensah)
