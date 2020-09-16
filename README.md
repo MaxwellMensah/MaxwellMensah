@@ -3,10 +3,12 @@
  
 <div align="center">     
  
- ### Spotify Playing 🎧     
-&nbsp; <img src="https:/maxwell-mensah.vercel.app/api/spotify" >
- 
+ ### Spotify Playing 🎧
+[![Spotify]("https://now-playing-codestackr.vercel.app/api/spotify-playing")](https://open.spotify.com/user/maxwellmensah)
+
 </div>
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 _A data science and machine learning enthusiast from Ghana._
 
