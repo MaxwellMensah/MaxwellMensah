@@ -4,8 +4,7 @@
 <div align="center">     
  
  ### Spotify Playing 🎧
-[![Spotify](https://maxwell-mensah.vercel.app/api/spotify)](https://open.spotify.com/user/maxwellmensah)
-
+[![Spotify](https://https://maxwell-mensah.maxwellmensah.vercel.app/api/spotify)](https://open.spotify.com/user/maxwell-mensah)
 </div>
 
 _A data science and machine learning enthusiast from Ghana._
