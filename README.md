@@ -2,7 +2,8 @@
 
  
 <div align="center">     
-&nbsp; <img src="https://novatorem.vercel.app/api/spotify" >
+&nbsp; <img src="https://vercel.maxwellmensah.vercel.app/api/spotify" >
+ 
 </div>
 
 _A data science and machine learning enthusiast from Ghana._
