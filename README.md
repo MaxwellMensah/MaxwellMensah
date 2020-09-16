@@ -7,6 +7,8 @@
 [![Spotify](https://maxwell-mensah.maxwellmensah.vercel.app/api/spotify)](https://open.spotify.com/user/maxwell-mensah)
 </div>
 
+[<img src="https://maxwell-mensah-git-master.maxwellmensah.vercel.app/api/spotify" />](https://open.spotify.com/user/maxwell-mensah)
+
 _A data science and machine learning enthusiast from Ghana._
 
 * 🔭 I’m currently working on a team project: Lead Qualification
