@@ -3,7 +3,7 @@
  
 <div align="center">     
  
- ### Spotify Playing 🎧
+ ### Spotify Playing NOW 🎧
 [![Spotify](https://spotify-play.vercel.app//api/spotify)](https://open.spotify.com/user/spotify-play)
 </div>
 
