@@ -3,11 +3,10 @@
  
 <div align="center">     
  
- ### Spotify Playing 🎧
-[![Spotify](https://maxwell-mensah-l43u2a7kt.vercel.app/api/spotify)](https://open.spotify.com/user/maxwell-mensah)
+ ### Spotify Playing 🎧     
+&nbsp; <img src="https://novatorem.vercel.app/api/spotify" >
+ 
 </div>
-
-[<img src="https://maxwell-mensah-git-master.maxwellmensah.vercel.app/api/spotify" />](https://open.spotify.com/user/maxwell-mensah)
 
 _A data science and machine learning enthusiast from Ghana._
 
