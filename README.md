@@ -4,7 +4,7 @@
 <div align="center">     
  
  ### Spotify Playing 🎧     
-&nbsp; <img src="https:/maxweell-mensah.vercel.app/api/spotify" >
+&nbsp; <img src="https:/maxwell-mensah.vercel.app/api/spotify" >
  
 </div>
 
