@@ -4,7 +4,7 @@
 <div align="center">     
  
  ### Spotify Playing 🎧
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-play.vercel.app//api/spotify)](https://open.spotify.com/user/spotify-play)
 </div>
 
 _A data science and machine learning enthusiast from Ghana._
