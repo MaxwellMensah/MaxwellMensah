@@ -9,8 +9,8 @@
 
 _A data science and machine learning enthusiast from Ghana._
 
-- 🔭 I’m currently working on a team project: Lead Qualification
-- 🌱 I’m currently learning Microsoft Power BI & PostgreSQL
+- 🔭 I’m currently working on : Microsoft Exams, Azure Data Scientist Associate 
+- 🌱 I’m currently learning Microsoft Power BI 
 - 👯 I’m looking to collaborate on data science actvities
 - 💬 Ask me about anything😊
 - 📫 How to reach me: <img src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg" width="30" height="17">
