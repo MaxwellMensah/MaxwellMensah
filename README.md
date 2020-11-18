@@ -4,7 +4,7 @@
 <div align="center">     
  
  ### Spotify Playing NOW 🎧
-[![Spotify](https://novatorem-pearl-five.vercel.app)](https://open.spotify.com/user/spotify-play)
+[![Spotify](https://me-c0evpzjcn.vercel.app)](https://open.spotify.com/user/spotify-play)
 </div>
 
 _A data science and machine learning enthusiast from Ghana._
