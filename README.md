@@ -4,7 +4,7 @@
 <div align="center">     
  
  ### Spotify Playing NOW 🎧
-[![Spotify](https://novatorem-2-iota.vercel.app)](https://open.spotify.com/user/spotify-play)
+[![Spotify](https://novatorem-2-iota.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-play)
 
 [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
