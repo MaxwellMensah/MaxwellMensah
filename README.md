@@ -4,7 +4,7 @@
 <div align="center">     
  
  ### Spotify Playing NOW 🎧
-[![Spotify](https://me-hats8iz5r.vercel.app)](https://open.spotify.com/user/spotify-play)
+[![Spotify](https://me.maxwellmensah.vercel.app)](https://open.spotify.com/user/spotify-play)
 </div>
 
 _A data science and machine learning enthusiast from Ghana._
