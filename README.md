@@ -1,7 +1,8 @@
 ### Hey there 👋, I'm Maxwell! 👨‍💻
 
  
-<div align="center">     
+<div align="center">    
+ 
  ### Spotify Playing NOW 🎧
 [![Spotify](https://novatorem2-pi.vercel.app/api/spotify)](https://open.spotify.com/playlist/5gPEnc8yEE5bmAn4IMEXBw)
 </div>
