@@ -7,7 +7,7 @@
 [![Spotify](https://novatorem2-pi.vercel.app/api/spotify)](https://open.spotify.com/playlist/5gPEnc8yEE5bmAn4IMEXBw)
 </div>
 
-_A data science and machine learning enthusiast from Ghana._
+_Passionate about Data Science and Machine Learning._
 
 - 🔭 I’m currently working on : ML  
 - 🌱 I’m currently learning Microsoft Power BI 
