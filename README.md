@@ -9,7 +9,7 @@
 
 _A data science and machine learning enthusiast from Ghana._
 
-- 🔭 I’m currently working on : Microsoft Exams, Azure Data Scientist Associate 
+- 🔭 I’m currently working on : ML  
 - 🌱 I’m currently learning Microsoft Power BI 
 - 👯 I’m looking to collaborate on data science actvities
 - 💬 Ask me about anything😊
