@@ -9,7 +9,7 @@
 
 _Passionate about Data Science and Machine Learning._
 
-- 🔭 I’m currently working on : ML  
+- 🔭 I’m currently working on : ML projects
 - 🌱 I’m currently learning Microsoft Power BI 
 - 👯 I’m looking to collaborate on data science actvities
 - 💬 Ask me about anything😊
