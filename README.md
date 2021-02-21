@@ -9,8 +9,8 @@
 
 _Passionate about Data Science and Machine Learning._
 
-- 🔭 I’m currently working on : ML projects
-- 🌱 I’m currently learning more on ML 
+- 🔭 I’m currently working on : ML projects 
+- 🌱 I’m currently learning: Amazon Web Service EC2
 - 👯 I’m looking to collaborate on data science actvities
 - 💬 Ask me about anything😊
 - 📫 How to reach me: <img src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg" width="30" height="17">
