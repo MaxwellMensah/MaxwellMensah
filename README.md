@@ -13,7 +13,8 @@ _Passionate about Data Science and Machine Learning._
 - 🌱 I’m currently learning: Apache Spark
 - 👯 I’m looking to collaborate on data science/analytics  actvities
 - 💬 Ask me about anything😊
-- 📫 How to reach me: <img src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg" width="30" height="17">
+<!-- - 📫 How to reach me: <img src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg" width="30" height="17"> -->
+- 📫 How to reach me: <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png" height="17">
  Mmaxwell265@gmail.com
 - ⚡ Fun fact: My first ML mentor was Andrew NG😊. Whatabout you ?
 
