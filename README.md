@@ -10,7 +10,7 @@
 _Passionate about Data Science and Machine Learning._
 
 - ⚒️ I’m currently working on : ML projects 
-- 📚 I’m currently learning: Notebook Instance
+- 💻 I’m currently learning: Notebook Instance
 - 👯 I’m looking to collaborate on data science/analytics  actvities
 - 💬 Ask me about anything😊
 - 📫 How to reach me: <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="17"> 
