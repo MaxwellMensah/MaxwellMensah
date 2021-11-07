@@ -3,14 +3,14 @@
  
 <div align="center">    
  
- ### Spotify Playing NOW<img src="https://cdn-icons.flaticon.com/png/512/5681/premium/5681325.png?token=exp=1634941833~hmac=d161edd15af464d30bb06eac43b0c725" width="40" height="40">
+ ### Spotify Playing NOW<img src="https://img.icons8.com/glyph-neue/64/000000/earbud-headphones.png" width="40" height="40">
 [![Spotify](https://novatorem2-pi.vercel.app/api/spotify)](https://open.spotify.com/playlist/5gPEnc8yEE5bmAn4IMEXBw)
 </div>
 
 _Passionate about Data Science and Machine Learning._
 
 - ⚒️ I’m currently working on : ML projects 
-- 💻 I’m currently learning: Notebook Instance
+- 💻 I’m currently learning: Fast.ai
 - 👯 I’m looking to collaborate on data science/analytics  actvities
 - 💬 Ask me about anything😊
 - 📫 How to reach me: <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="17"> 
