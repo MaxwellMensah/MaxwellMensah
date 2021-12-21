@@ -9,7 +9,7 @@
 
 _Passionate about Data Science and Machine Learning._
 
-- ⚒️ I’m currently working as : Data Science Projects
+- ⚒️ I’m currently working as : Data Scientist
 - 💻 I’m currently learning: NLP 
 - 👯 I’m looking to collaborate on data science/analytics  actvities
 - 💬 Ask me about anything😊
