@@ -4,7 +4,7 @@
 <div align="center">    
  
  ### Spotify Playing NOW<img src="https://img.icons8.com/glyph-neue/64/000000/earbud-headphones.png" width="40" height="40">
-[![Spotify](https://novatorem2-pi.vercel.app/api/spotify)](https://open.spotify.com/playlist/5gPEnc8yEE5bmAn4IMEXBw)
+[![Spotify](https://novatorem2-pi.vercel.app/api/spotify)](https://open.spotify.com/playlist/0DiohsLGJ79ujRPwtFvBKl)
 </div>
 
 _Passionate about Data Science and Machine Learning._
