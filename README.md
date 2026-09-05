@@ -1,35 +1,220 @@
-### Hey there 👋, I'm Maxwell! 👨‍💻
+<div align="center">
 
- 
-<!-- 
-<div align="center">    
- 
- ### Spotify Playing NOW<img src="https://img.icons8.com/glyph-neue/64/000000/earbud-headphones.png" width="40" height="40">
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/0DiohsLGJ79ujRPwtFvBKl) 
-</div> 
--->
+# Maxwell Mensah
 
-_Passionate about Data Science and Machine Learning._
+### Production: AI, Agents & ML
 
-- ⚒️ I’m currently working as : AI Engineer
-- 💻 I’m currently learning: More about data & tech
-- 👯 I’m looking to collaborate on data science/analytics  actvities
-- 💬 Ask me about anything😊
-- 📫 How to reach me: <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="17"> 
- Mmaxwell265@gmail.com
-- 😝 Fun fact: My first ML mentor was Andrew NG😊. Whatabout you ?
+</div>
 
-<!--
-#### Languages and Tools 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="50" height="46"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="44" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="38"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" width="70" height="40">  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="68" height="30">  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="80" height="40">
--->
-<!--
-#### Social 
+**$$ \color{#2563eb}{\textsf{Agentic Systems Architecture $\cdot$ Model Engineering $\cdot$ LLMOps}} $$**
 
-<a href="https://www.linkedin.com/in/maxwell-mensah-98a00216a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div align="center">
 
-<img src="https://learncodeonline.in/gittwo.png" width="50" height="18">**〽️a❌!e**
--->
-             
+I train models, build agentic systems, and ship the evaluation
+and infrastructure <br>layers that keep AI reliable in production.
+
+📍 Ghana, West Africa &nbsp;&nbsp;·&nbsp;&nbsp; 🌍 Worldwide
+
+</div>
+
+<hr />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><a href="#agents"><code>[01] AGENTIC SYSTEMS</code></a><br/><sub>LangGraph · Strands · MCP</sub></td>
+    <td align="center"><a href="#finetuning"><code>[02] MODEL ENGINEERING</code></a><br/><sub>LoRA · GGUF · Unsloth</sub></td>
+    <td align="center"><a href="#evaluation"><code>[03] EVALUATION</code></a><br/><sub>LLM-as-Judge · RAG Evals</sub></td>
+    <td align="center"><a href="#production"><code>[04] PRODUCTION</code></a><br/><sub>GCP · Docker · Observability</sub></td>
+  </tr>
+</table>
+
+**Engineering stance:** Agents fail in production differently than in demos.   
+I build for failure first. Evaluation, observability, and guardrails before features.
+
+</div>
+
+<hr />
+
+<a id="agents"></a>
+## 01 · AGENTIC SYSTEMS
+**→ [`agentic_engineering`](https://github.com/MaxwellMensah/agentic_engineering)**
+
+Production-grade AI agent design patterns, autonomous system architectures, and multi-framework orchestration.
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#eff6ff',
+    'primaryTextColor': '#1f2937',
+    'primaryBorderColor': '#3b82f6',
+    'lineColor': '#2563eb',
+    'secondaryColor': '#dbeafe',
+    'tertiaryColor': '#ffffff'
+  }
+}}%%
+graph TD
+    A["<b>REACT CORE</b><br/><br/>LangGraph<br/>State Graph<br/>Tool Schema<br/>react_agent"]
+    B["<b>MULTI-AGENT</b><br/><br/>Strands<br/>CrewAI<br/>Swarm · Graph<br/>Task Delegation"]
+    C["<b>CONTEXT LAYER</b><br/><br/>Input Guardrails<br/>Model Routing<br/>Role-Based Policy<br/>Production Telemetry"]
+    D["<b>[Agentic RAG + Vector Search]</b><br/>Weaviate · Graph Query Engine"]
+
+    A --- B
+    B --- C
+    B --> D
+
+    style A fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#1f2937
+    style B fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#1f2937
+    style C fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#1f2937
+    style D fill:#e0f2fe,stroke:#0284c7,stroke-width:2px,color:#1f2937
+```
+
+* **Orchestration**: LangGraph graph-based state machines, Strands multi-agent swarms, CrewAI task pipelines
+* **Context Engineering**: Input guardrails, dynamic model routing, role-based tool policy, production telemetry
+* **Architecture Analysis**: Comparative breakdown — Strands vs CrewAI across task delegation, memory, and tool-use APIs
+
+<hr />
+
+<a id="finetuning"></a>
+## 02 · MODEL ENGINEERING
+**→ [`fine_tuning_modeling`](https://github.com/MaxwellMensah/fine_tuning_modeling)**
+
+End-to-end model engineering across two paradigms — LLM domain adaptation and classical ML research pipelines.
+
+**▸ LLM Domain Adaptation**
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#dcfce7',
+    'primaryTextColor': '#1f2937',
+    'primaryBorderColor': '#22c55e',
+    'lineColor': '#16a34a',
+    'secondaryColor': '#bbf7d0',
+    'tertiaryColor': '#ffffff'
+  }
+}}%%
+graph TD
+    D1[(Dataset JSONL <br/> train · val)] --> D2[SFT Training <br/> Unsloth · QLoRA]
+    D2 --> D3([Checkpoint-350])
+    D3 --> D4[Merge Weights <br/> export_model.py]
+    D3 --> D5[8-bit Quantize <br/> transform_gguf.py]
+    D4 --> D6[(Fraud Model v7)] --> D7[push_to_huggingface.py] --> D8([HuggingFace Hub])
+    D5 --> D9[(GGUF Binary)] --> D10[Ollama Engine]
+    D5 --> D11[Edge Case Testing]
+    D5 --> D12[Benchmark Run]
+
+    style D1 fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#1f2937
+    style D3 fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#1f2937
+    style D6 fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#1f2937
+    style D8 fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#1f2937
+    style D9 fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#1f2937
+```
+
+**▸ Traditional ML Research & Training**
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#ffedd5',
+    'primaryTextColor': '#1f2937',
+    'primaryBorderColor': '#f97316',
+    'lineColor': '#fb923c',
+    'secondaryColor': '#fed7aa',
+    'tertiaryColor': '#ffffff'
+  }
+}}%%
+graph LR
+    M1[(Raw Data)] --> M2[EDA & Features] --> M3[Model Training <br/> XGBoost · sklearn] --> M4[Validation & Metrics <br/> AUC · F1 · CV] --> M5[Serialization <br/> joblib · ONNX] --> M6[Deployment <br/> FastAPI · Docker]
+    M3 --> MW[Weights & Biases <br/> Loss · Scores · Versions]
+
+    style M1 fill:#ffedd5,stroke:#f97316,stroke-width:2px,color:#1f2937
+    style M6 fill:#ffedd5,stroke:#f97316,stroke-width:2px,color:#1f2937
+    style MW fill:#fff7ed,stroke:#fb923c,stroke-width:2px,color:#1f2937
+```
+
+* **LLM Fine-Tuning**: PEFT via QLoRA/LoRA using Unsloth — dataset curation, SFT, checkpoint management
+* **Export**: 16-bit merged weights + 8-bit GGUF quantization for local inference via Ollama
+* **Classical ML**: End-to-end research pipelines — feature engineering, model selection, cross-validation, serialization
+* **Evaluation**: Edge case testing suite and base vs. fine-tuned model comparison on domain-specific metrics
+
+<hr />
+
+<a id="evaluation"></a>
+## 03 · EVALUATION HARNESS
+**→ [`LLM-evaluations`](https://github.com/MaxwellMensah/LLM-evaluations)**
+
+Local multi-dimensional evaluation framework — the bridge between raw model output and business logic reliability.
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#fef3c7',
+    'primaryTextColor': '#1f2937',
+    'primaryBorderColor': '#d97706',
+    'lineColor': '#f59e0b',
+    'secondaryColor': '#fde68a',
+    'tertiaryColor': '#ffffff'
+  }
+}}%%
+graph LR
+    E1[Base Model] --> E3[Eval Framework <br/> Pydantic Schema]
+    E2[Fine-Tuned Model] --> E3
+    E3 --> E4[LLM-as-Judge <br/> temp=0] --> E5([Plotly Dashboard <br/> Score Distribution])
+
+    style E5 fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#1f2937
+```
+
+* **Metrics**: LLM-as-a-Judge faithfulness scoring, embedding-based relevancy, hallucination reduction
+* **Reliability**: Deterministic grading with Pydantic schema enforcement and `temperature=0` judge controls
+* **Observability**: Interactive Plotly dashboards for score distribution and regression monitoring
+
+<hr />
+
+<a id="production"></a>
+## 04 · PRODUCTION ENGINEERING
+**→ [`production_engineering`](https://github.com/MaxwellMensah/production_engineering)**
+
+LLMOps infrastructure, containerized AI microservices, and agent observability pipelines.
+
+```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#fee2e2',
+    'primaryTextColor': '#1f2937',
+    'primaryBorderColor': '#ef4444',
+    'lineColor': '#f87171',
+    'secondaryColor': '#fecaca',
+    'tertiaryColor': '#ffffff'
+  }
+}}%%
+graph LR
+    P1[FastAPI Service] --> P2[Docker Container] --> P3[GCP Cloud Run] --> P4([Observability Pipeline <br/> Traces · Metrics])
+
+    style P4 fill:#fee2e2,stroke:#ef4444,stroke-width:2px,color:#1f2937
+```
+
+* **Infrastructure**: GCP Cloud Run autoscaling, Docker containerization, Kubernetes pod management
+* **Reliability**: Cost/latency optimization, circuit breakers, graceful degradation strategies
+* **Observability**: Distributed tracing, eval harnesses, agent monitoring pipelines
+
+<hr />
+
+## TECHNICAL STACK
+
+| Layer | Technologies |
+| --- | --- |
+| **Agentic Frameworks** | LangGraph · Langsmith · Strands · CrewAI · MCP |
+| **ML Stack** | PyTorch · Scikit-learn · XGBoost · Pandas · NumPy · Matplotlib · Weights & Biases |
+| **Model Engineering** | Unsloth · HuggingFace · LoRA/QLoRA · GGUF · Ollama |
+| **LLM APIs** | Gemini · Claude · OpenAI · Bedrock |
+| **Production & Infra** | GCP · Docker · Kubernetes · Cloud Run · FastAPI |
+| **Evaluation** | LLM-as-Judge · RAG Evals · Plotly · Pydantic |
+
+<hr />
