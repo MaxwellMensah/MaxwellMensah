@@ -38,7 +38,10 @@ I build for failure first. Evaluation, observability, and guardrails before feat
 <hr />
 
 <a id="agents"></a>
-## 01 · AGENTIC SYSTEMS
+<details>
+<summary><b>[01] AGENTIC SYSTEMS</b> &nbsp;—&nbsp; LangGraph · Strands · CrewAI · MCP</summary>
+<br/>
+
 **→ [`agentic_engineering`](https://github.com/MaxwellMensah/agentic_engineering)**
 
 Production-grade AI agent design patterns, autonomous system architectures, and multi-framework orchestration.
@@ -75,10 +78,15 @@ graph TD
 * **Context Engineering**: Input guardrails, dynamic model routing, role-based tool policy, production telemetry
 * **Architecture Analysis**: Comparative breakdown — Strands vs CrewAI across task delegation, memory, and tool-use APIs
 
+</details>
+
 <hr />
 
 <a id="finetuning"></a>
-## 02 · MODEL ENGINEERING
+<details>
+<summary><b>[02] MODEL ENGINEERING</b> &nbsp;—&nbsp; LoRA · GGUF · Unsloth · PyTorch · XGBoost</summary>
+<br/>
+
 **→ [`fine_tuning_modeling`](https://github.com/MaxwellMensah/fine_tuning_modeling)**
 
 End-to-end model engineering across two paradigms — LLM domain adaptation and classical ML research pipelines.
@@ -142,10 +150,15 @@ graph LR
 * **Classical ML**: End-to-end research pipelines — feature engineering, model selection, cross-validation, serialization
 * **Evaluation**: Edge case testing suite and base vs. fine-tuned model comparison on domain-specific metrics
 
+</details>
+
 <hr />
 
 <a id="evaluation"></a>
-## 03 · EVALUATION HARNESS
+<details>
+<summary><b>[03] EVALUATION HARNESS</b> &nbsp;—&nbsp; LLM-as-Judge · RAG Evals · Plotly</summary>
+<br/>
+
 **→ [`LLM-evaluations`](https://github.com/MaxwellMensah/LLM-evaluations)**
 
 Local multi-dimensional evaluation framework — the bridge between raw model output and business logic reliability.
@@ -174,10 +187,15 @@ graph LR
 * **Reliability**: Deterministic grading with Pydantic schema enforcement and `temperature=0` judge controls
 * **Observability**: Interactive Plotly dashboards for score distribution and regression monitoring
 
+</details>
+
 <hr />
 
 <a id="production"></a>
-## 04 · PRODUCTION ENGINEERING
+<details>
+<summary><b>[04] PRODUCTION ENGINEERING</b> &nbsp;—&nbsp; GCP · Docker · Kubernetes · Observability</summary>
+<br/>
+
 **→ [`production_engineering`](https://github.com/MaxwellMensah/production_engineering)**
 
 LLMOps infrastructure, containerized AI microservices, and agent observability pipelines.
@@ -204,6 +222,8 @@ graph LR
 * **Reliability**: Cost/latency optimization, circuit breakers, graceful degradation strategies
 * **Observability**: Distributed tracing, eval harnesses, agent monitoring pipelines
 
+</details>
+
 <hr />
 
 ## TECHNICAL STACK
@@ -218,3 +238,7 @@ graph LR
 | **Evaluation** | LLM-as-Judge · RAG Evals · Plotly · Pydantic |
 
 <hr />
+
+<div align="center">
+<sub>Committing daily · Building in public</sub>
+</div>
