@@ -1,7 +1,5 @@
 <div align="center">
 
-# Maxwell Mensah
-
 ### Production: AI, Agents & ML
 
 </div>
