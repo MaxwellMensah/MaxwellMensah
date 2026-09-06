@@ -108,9 +108,9 @@ End-to-end model engineering across two paradigms — LLM domain adaptation and 
 graph TD
     D1[(Dataset JSONL <br/> train · val)] --> D2[SFT Training <br/> Unsloth · QLoRA]
     D2 --> D3([Checkpoint-350])
-    D3 --> D4[Merge Weights <br/> export_model.py]
-    D3 --> D5[8-bit Quantize <br/> transform_gguf.py]
-    D4 --> D6[(Fraud Model v7)] --> D7[push_to_huggingface.py] --> D8([HuggingFace Hub])
+    D3 --> D4[Merge Weights]
+    D3 --> D5[8-bit Quantize]
+    D4 --> D6[(Fine-Tuned Model)] --> D7[Upload Artifacts] --> D8([HuggingFace Hub])
     D5 --> D9[(GGUF Binary)] --> D10[Ollama Engine]
     D5 --> D11[Edge Case Testing]
     D5 --> D12[Benchmark Run]
