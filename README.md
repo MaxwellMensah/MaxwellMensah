@@ -58,14 +58,13 @@ Production-grade AI agent design patterns, autonomous system architectures, and 
     'tertiaryColor': '#ffffff'
   }
 }}%%
-graph TD
-    A["<b>REACT CORE</b><br/><br/>LangGraph<br/>State Graph<br/>Tool Schema<br/>react_agent"]
-    B["<b>MULTI-AGENT</b><br/><br/>Strands<br/>CrewAI<br/>Swarm · Graph<br/>Task Delegation"]
-    C["<b>CONTEXT LAYER</b><br/><br/>Input Guardrails<br/>Model Routing<br/>Role-Based Policy<br/>Production Telemetry"]
-    D["<b>[Agentic RAG + Vector Search]</b><br/>Weaviate · Graph Query Engine"]
+graph LR
+    A["REACT CORE<br/>LangGraph · State Graph"]
+    B["MULTI-AGENT<br/>Strands · CrewAI"]
+    C["CONTEXT LAYER<br/>Guardrails · Routing · Telemetry"]
+    D["RAG + Vector Search<br/>Weaviate · Graph Query"]
 
-    A --- B
-    B --- C
+    A --- B --- C
     B --> D
 
     style A fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#1f2937
