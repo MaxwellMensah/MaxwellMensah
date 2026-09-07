@@ -11,7 +11,7 @@
 I train models, build agentic systems, and ship the evaluation
 and infrastructure <br>layers that keep AI reliable in production.
 
-📍 Ghana, West Africa &nbsp;&nbsp;·&nbsp;&nbsp; 🌍 Worldwide
+🌍 Worldwide
 
 </div>
 
