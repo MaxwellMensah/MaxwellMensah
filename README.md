@@ -231,7 +231,7 @@ graph LR
 | **ML Stack** | PyTorch · Scikit-learn · XGBoost · Pandas · NumPy · Matplotlib · Weights & Biases |
 | **Model Engineering** | Unsloth · HuggingFace · LoRA/QLoRA · GGUF · Ollama |
 | **LLM APIs** | Gemini · Claude · OpenAI · Bedrock |
-| **Production & Infra** | GCP · Docker · Kubernetes · Cloud Run · FastAPI |
+| **Production & Infra** | GCP · Docker · Cloud Run · FastAPI |
 | **Evaluation** | LLM-as-Judge · RAG Evals · Plotly · Pydantic |
 
 <hr />
